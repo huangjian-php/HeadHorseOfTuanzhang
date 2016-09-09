@@ -1,0 +1,8 @@
+D:\github\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\bin\Release\HeadHorseOfTuanzhang.exe
+D:\github\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\bin\Release\HeadHorseOfTuanzhang.pdb
+D:\github\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\obj\Release\ResolveAssemblyReference.cache
+D:\github\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\obj\Release\HeadHorseOfTuanzhang.Form1.resources
+D:\github\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\obj\Release\HeadHorseOfTuanzhang.Properties.Resources.resources
+D:\github\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\obj\Release\HeadHorseOfTuanzhang.csproj.GenerateResource.Cache
+D:\github\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\obj\Release\HeadHorseOfTuanzhang.exe
+D:\github\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\HeadHorseOfTuanzhang\obj\Release\HeadHorseOfTuanzhang.pdb
