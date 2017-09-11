@@ -100,6 +100,8 @@ namespace HeadHorseOfTuanzhang
                 MessageBox.Show("无效的底图！");
                 return;
             }
+            btn_ok.Text = "生成中...";
+            btn_ok.Enabled = false;
             ExcelHelper eh = new ExcelHelper(tb_file.Text);
             string[,] name_arr = eh.GetContent();
             eh.Close();
@@ -114,7 +116,10 @@ namespace HeadHorseOfTuanzhang
                 //System.Console.WriteLine(name_arr[i, 0] + name_arr[i, 1]);
                 draw_pic(prefix, name_arr[i, 1], name_arr[i, 0], pic_name, rf_name);
             }
-
+            btn_ok.Text = "生成";
+            btn_ok.Enabled = true;
+            MessageBox.Show("生成成功！");
+            return;
         }
 
         private void btn_select_Click(object sender, EventArgs e)
